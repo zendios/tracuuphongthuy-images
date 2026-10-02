@@ -3,7 +3,7 @@
 Bộ ảnh gốc 1600 × 1000 (16:10), đưa vào ứng dụng ở cỡ 1200 × 750; nhập ngày 01/10/2026 bằng `tools/nhap_anh_build_in.py`; bản nhỏ 432 × 270 ở `nho/`.
 Ảnh "Zendios · AI" là ảnh MINH HỌA tạo bằng AI, không phải ảnh tư liệu về địa danh hay hiện vật cụ thể. Ảnh chụp thật lấy từ Wikimedia Commons,
 chỉ cắt khổ và nén; ảnh CC BY / CC BY-SA bắt buộc ghi tác giả và giấy phép (ứng dụng hiện dưới ảnh trong bảng chi tiết).
-Danh sách gốc, SHA256 và prompt: `docs/thiet-ke/anh-build-in/`. Ảnh cũ 480 × 300 lưu ở `_luu-tru/`.
+Danh sách gốc, SHA256 và prompt: `docs/thiet-ke/anh-build-in/`; bộ bổ sung 120 ảnh (52–171, 02/10/2026): `docs/thiet-ke/12-ANH-KIEN-THUC-BO-SUNG.md`, ảnh 60 đã sửa tay ô Lạc thư giữa phải (7 chấm). Ảnh cũ 480 × 300 lưu ở `_luu-tru/`.
 
 Từ 01/10/2026: ảnh chụp thật có nguồn Commons KHÔNG cài bản đủ cỡ trong app — tải bản 960 px từ Wikimedia (`ANH_WEB` trong `src/data/anh.js`),
 chỉ cài bản nhỏ trong `nho/` làm nền khi đang tải và ảnh dự phòng khi mất mạng. Bản đủ cỡ cũ: `_luu-tru/2026-10-01/anh-day-du-tai-tu-web/`.
@@ -63,3 +63,123 @@ mục "Nhà ống phố cổ" bỏ ảnh AI (không dùng ảnh AI làm sử li�
 | 49-kh-nuoc-dong.jpg | Ảnh tạo bằng AI | Zendios · AI | — | AI-generated |  |
 | 50-kh-cay-trong-nha.jpg | Ảnh tạo bằng AI | Zendios · AI | — | AI-generated |  |
 | 51-pho-hang-be.jpg | Ảnh chụp thật · Bưu ảnh phố Hàng Bè (Rue des Radeaux), đầu TK XX | Không rõ tác giả | https://commons.wikimedia.org/wiki/File:Hano%C3%AF_-_Rue_des_Radeaux.jpg | Public domain | Cho mục "Nhà ống phố cổ" (thay ảnh AI); tải từ web |
+| 52-am-duong-trong-kien-truc.jpg | Ảnh tạo bằng AI · Nguyên lý | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 53-nha-thuan-duong-thuan-am.jpg | Ảnh tạo bằng AI · Nguyên lý | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 54-bang-am-duong-hinh-the.jpg | Ảnh tạo bằng AI · Nguyên lý | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 55-am-duong-mau-sac.jpg | Ảnh tạo bằng AI · Nguyên lý | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 56-nguoi-am-tinh-duong-tinh.jpg | Ảnh tạo bằng AI · Nguyên lý | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 57-ngu-hanh-sinh-khac-co-dieu-kien.jpg | Ảnh tạo bằng AI · Nguyên lý | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 58-bat-quai-phoi-am-duong-ngu-hanh.jpg | Ảnh tạo bằng AI · Nguyên lý | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 59-bat-quai-bo-phan-nha.jpg | Ảnh tạo bằng AI · Nguyên lý | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 60-ha-do-lac-thu.jpg | Ảnh tạo bằng AI · Nguyên lý | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 61-hinh-the-ngu-hanh.jpg | Ảnh tạo bằng AI · Ngũ hành kiến trúc | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 62-hinh-the-kien-truc-ngu-hanh.jpg | Ảnh tạo bằng AI · Ngũ hành kiến trúc | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 63-hinh-the-luong-tinh.jpg | Ảnh tạo bằng AI · Ngũ hành kiến trúc | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 64-ngu-hanh-ham-chua-24-son.jpg | Ảnh tạo bằng AI · Ngũ hành kiến trúc | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 65-so-tang-so-phong-ngu-hanh.jpg | Ảnh tạo bằng AI · Ngũ hành kiến trúc | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 66-tu-tru-ngoi-nha-chu-khi.jpg | Ảnh tạo bằng AI · Ngũ hành kiến trúc | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 67-chu-khi-quy-bat-quai.jpg | Ảnh tạo bằng AI · Ngũ hành kiến trúc | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 68-danh-gia-sao-theo-chu-khi.jpg | Ảnh tạo bằng AI · Ngũ hành kiến trúc | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 69-cai-tao-khi-van-bang-kien-truc.jpg | Ảnh tạo bằng AI · Ngũ hành kiến trúc | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 70-cau-truc-8-mat-bo-tri-phong.jpg | Ảnh tạo bằng AI · Khí trường · Lập cực | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 71-cau-truc-dong-mo-vung-khi.jpg | Ảnh tạo bằng AI · Khí trường · Lập cực | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 72-vung-khi-truong-thiem-du-30.jpg | Ảnh tạo bằng AI · Khí trường · Lập cực | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 73-cuu-cung-lac-thu-theo-toa-huong.jpg | Ảnh tạo bằng AI · Khí trường · Lập cực | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 74-phan-vung-khi-truong-nha-nhieu-khoi.jpg | Ảnh tạo bằng AI · Khí trường · Lập cực | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 75-khi-truong-chuan-va-hoa-giai.jpg | Ảnh tạo bằng AI · Khí trường · Lập cực | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 76-lap-cuc-tam-nha.jpg | Ảnh tạo bằng AI · Khí trường · Lập cực | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 77-tam-nha-hinh-co-ban.jpg | Ảnh tạo bằng AI · Khí trường · Lập cực | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 78-sinh-khi-va-sat-khi.jpg | Ảnh tạo bằng AI · Sát khí | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 79-sat-khi-hinh-nhon-goc-dam.jpg | Ảnh tạo bằng AI · Sát khí | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 80-sau-loai-sat-khi.jpg | Ảnh tạo bằng AI · Sát khí | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 81-tiem-xa-sat.jpg | Ảnh tạo bằng AI · Sát khí | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 82-ta-hoanh-sat.jpg | Ảnh tạo bằng AI · Sát khí | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 83-liem-dao-sat.jpg | Ảnh tạo bằng AI · Sát khí | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 84-thien-tram-sat.jpg | Ảnh tạo bằng AI · Sát khí | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 85-phi-tien-sat.jpg | Ảnh tạo bằng AI · Sát khí | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 86-phan-quang-sat.jpg | Ảnh tạo bằng AI · Sát khí | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 87-khau-hinh-am-sat.jpg | Ảnh tạo bằng AI · Sát khí | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 88-duong-co-ngu-yeu.jpg | Ảnh tạo bằng AI · Địa thế | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 89-phuong-khi-den-ban-quai-cuc.jpg | Ảnh tạo bằng AI · Địa thế | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 90-huong-nha-theo-khi-den-va-menh-chu.jpg | Ảnh tạo bằng AI · Địa thế | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 91-vien-binh-truc-tu.jpg | Ảnh tạo bằng AI · Hình thể | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 92-kich-thuoc-can-doi.jpg | Ảnh tạo bằng AI · Hình thể | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 93-phong-ngu-ty-le-dien-tich.jpg | Ảnh tạo bằng AI · Phòng ngủ | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 94-phong-ngu-thiet-bi-dien-tu.jpg | Ảnh tạo bằng AI · Phòng ngủ | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 95-giuong-vung-hoat-khi-theo-cua.jpg | Ảnh tạo bằng AI · Phòng ngủ | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 96-giuong-ty-le-luoi-mat-bang.jpg | Ảnh tạo bằng AI · Phòng ngủ | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 97-phong-ngu-tre-em-vi-tri.jpg | Ảnh tạo bằng AI · Phòng ngủ | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 98-phong-ngu-tre-em-khong-gian.jpg | Ảnh tạo bằng AI · Phòng ngủ | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 99-huong-giuong-theo-menh.jpg | Ảnh tạo bằng AI · Phòng ngủ | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 100-giuong-tranh-xa-dam-quat-tran.jpg | Ảnh tạo bằng AI · Phòng ngủ | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 101-giuong-tranh-wc-tang-tren.jpg | Ảnh tạo bằng AI · Phòng ngủ | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 102-giuong-doi-dien-cua.jpg | Ảnh tạo bằng AI · Phòng ngủ | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 103-guong-chieu-giuong.jpg | Ảnh tạo bằng AI · Phòng ngủ | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 104-gam-giuong-thong-thoang.jpg | Ảnh tạo bằng AI · Phòng ngủ | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 105-ban-tho-vi-tri.jpg | Ảnh tạo bằng AI · Phòng thờ | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 106-ban-tho-huong.jpg | Ảnh tạo bằng AI · Phòng thờ | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 107-ban-tho-tranh-wc-bep.jpg | Ảnh tạo bằng AI · Phòng thờ | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 108-ban-tho-cua-so-gio.jpg | Ảnh tạo bằng AI · Phòng thờ | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 109-ban-tho-khong-khuat-toi.jpg | Ảnh tạo bằng AI · Phòng thờ | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 110-bep-vi-tri-cung.jpg | Ảnh tạo bằng AI · Bếp | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 111-bep-chon-cat-son.jpg | Ảnh tạo bằng AI · Bếp | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 112-bep-tu-cat-tinh.jpg | Ảnh tạo bằng AI · Bếp | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 113-bep-huong-toa-hung-huong-cat.jpg | Ảnh tạo bằng AI · Bếp | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 114-bep-tranh-xung-cua.jpg | Ảnh tạo bằng AI · Bếp | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 115-bep-tranh-xu-ue-wc.jpg | Ảnh tạo bằng AI · Bếp | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 116-bep-tranh-dam-goc-nhon.jpg | Ảnh tạo bằng AI · Bếp | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 117-wc-vi-tri-cung-hung.jpg | Ảnh tạo bằng AI · WC | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 118-wc-huong.jpg | Ảnh tạo bằng AI · WC | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 119-wc-tuyen-ban-menh.jpg | Ảnh tạo bằng AI · WC | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 120-wc-dao-hoa-sat.jpg | Ảnh tạo bằng AI · WC | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 121-wc-doi-dien-cua-chinh.jpg | Ảnh tạo bằng AI · WC | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 122-gieng-troi-kieng-ky.jpg | Ảnh tạo bằng AI · Giếng trời | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 123-gieng-troi-hinh-dang.jpg | Ảnh tạo bằng AI · Giếng trời | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 124-be-nuoc-an-vi-tri.jpg | Ảnh tạo bằng AI · Bể nước · bể phốt | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 125-be-phot-vi-tri.jpg | Ảnh tạo bằng AI · Bể nước · bể phốt | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 126-be-nuoc-phot-trung-cung.jpg | Ảnh tạo bằng AI · Bể nước · bể phốt | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 127-be-nuoc-phot-duoi-phong-ngu.jpg | Ảnh tạo bằng AI · Bể nước · bể phốt | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 128-be-nuoc-phot-tuyen-menh-dao-hoa.jpg | Ảnh tạo bằng AI · Bể nước · bể phốt | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 129-be-phot-duoi-ban-tho-bep.jpg | Ảnh tạo bằng AI · Bể nước · bể phốt | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 130-tieu-nap-thuy-nguyen-ly.jpg | Ảnh tạo bằng AI · Cấp thoát nước | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 131-huong-tinh-duong-lenh.jpg | Ảnh tạo bằng AI · Cấp thoát nước | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 132-thong-quan-vuong-khi.jpg | Ảnh tạo bằng AI · Cấp thoát nước | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 133-huyen-khong-ngu-hanh-24-son.jpg | Ảnh tạo bằng AI · Cấp thoát nước | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 134-chon-son-nap-thuy-sinh-khac.jpg | Ảnh tạo bằng AI · Cấp thoát nước | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 135-tieu-nap-thuy-kieng-ky-truc-tam.jpg | Ảnh tạo bằng AI · Cấp thoát nước | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 136-tieu-nap-thuy-ban-menh-dao-hoa.jpg | Ảnh tạo bằng AI · Cấp thoát nước | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 137-san-vuon-ngu-hanh-phuong-vi.jpg | Ảnh tạo bằng AI · Sân vườn | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 138-thoat-nuoc-mua-truong-sinh-thuy-phap.jpg | Ảnh tạo bằng AI · Sân vườn | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 139-giam-doc-huong-ngoi-menh-trach.jpg | Ảnh tạo bằng AI · Văn phòng | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 140-giam-doc-tranh-lung-cua.jpg | Ảnh tạo bằng AI · Văn phòng | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 141-phong-ban-cung-ton.jpg | Ảnh tạo bằng AI · Văn phòng | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 142-phong-ban-cung-khon.jpg | Ảnh tạo bằng AI · Văn phòng | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 143-phong-ban-cung-can8.jpg | Ảnh tạo bằng AI · Văn phòng | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 144-phong-ban-cung-kham.jpg | Ảnh tạo bằng AI · Văn phòng | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 145-phong-ban-cung-doai.jpg | Ảnh tạo bằng AI · Văn phòng | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 146-phong-ban-cung-chan.jpg | Ảnh tạo bằng AI · Văn phòng | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 147-phong-ban-cung-ly.jpg | Ảnh tạo bằng AI · Văn phòng | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 148-ngu-hanh-thiet-bi-van-phong.jpg | Ảnh tạo bằng AI · Thiết bị | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 149-thiet-bi-chu-va-khach.jpg | Ảnh tạo bằng AI · Thiết bị | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 150-tam-he-quy-dao-van-hanh.jpg | Ảnh tạo bằng AI · Thiết bị | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 151-nguyen-tac-phan-khi.jpg | Ảnh tạo bằng AI · Thiết bị | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 152-tim-vung-tu-sat.jpg | Ảnh tạo bằng AI · Thiết bị | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 153-che-hoa-sat-khi-nguyen-ly.jpg | Ảnh tạo bằng AI · Thiết bị | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 154-vat-che-hoa-thuy.jpg | Ảnh tạo bằng AI · Thiết bị | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 155-vat-che-hoa-moc-tho.jpg | Ảnh tạo bằng AI · Thiết bị | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 156-vat-che-hoa-kim.jpg | Ảnh tạo bằng AI · Thiết bị | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 157-thien-loc.jpg | Ảnh tạo bằng AI · Thần sát | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 158-thien-ma.jpg | Ảnh tạo bằng AI · Thần sát | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 159-am-quy-nhan.jpg | Ảnh tạo bằng AI · Thần sát | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 160-duong-quy-nhan.jpg | Ảnh tạo bằng AI · Thần sát | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 161-dao-hoa.jpg | Ảnh tạo bằng AI · Thần sát | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 162-dai-sat.jpg | Ảnh tạo bằng AI · Thần sát | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 163-thien-hinh.jpg | Ảnh tạo bằng AI · Thần sát | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 164-doc-hoa.jpg | Ảnh tạo bằng AI · Thần sát | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 165-nguyen-khi-va-thuc-khi.jpg | Ảnh tạo bằng AI · Nguyên khí | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 166-danh-gia-vung-khi-cuu-cung.jpg | Ảnh tạo bằng AI · Nguyên khí | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 167-khai-mon-phoi-nguyen-khi.jpg | Ảnh tạo bằng AI · Nguyên khí | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 168-trach-chu-menh.jpg | Ảnh tạo bằng AI · Nguyên khí | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 169-cao-bien-dai-la.jpg | Ảnh tạo bằng AI · Mốc lịch sử (Phong thủy Việt) — chưa có ảnh thật | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI · phục dựng giả định · phục dựng giả định; bộ bổ sung 02/10/2026 |
+| 170-nha-vuon-hue.jpg | Ảnh tạo bằng AI · Mốc lịch sử (Phong thủy Việt) — chưa có ảnh thật | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
+| 171-ta-ao.jpg | Ảnh tạo bằng AI · Mốc lịch sử (Phong thủy Việt) — chưa có ảnh thật | Zendios · AI | — | AI-generated | Hình minh họa tạo bằng AI; bộ bổ sung 02/10/2026 |
